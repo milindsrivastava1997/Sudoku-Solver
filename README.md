@@ -6,4 +6,4 @@ Output file name : solution.txt
 
 For input specification, refer to sudoku.txt in repo
 
-Solved using backpropagation
+Solved using backtracking
